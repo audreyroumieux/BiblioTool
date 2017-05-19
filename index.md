@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+Le  projet biblioTool consite en ...
+
+A l'heur actuelle, lorsque vous lancer le projet vous pouvez choisir de lancer une recherche en cliquent dans le menu edit
+sur le sous menu SerchPDF ou  le sous menu  SearchMetaData.
+
 You can use the [editor on GitHub](https://github.com/audreyroumieux/BiblioTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
