@@ -1,42 +1,14 @@
-## Welcome to GitHub Pages
+## Bienvenu sur le projet de programation Bibliotool
 
-Le  projet biblioTool consite en ...
+Le projet biblioTool est un projet réaliser par les élèves en troisieme année de licence inforamtique du CERI d'avignon. Le but du projet était de réaliser un logiciel d'aide à la revue bibliographique (tache corrante en recherche). En effet, l'automatisation d'une partie du traiment à réaliser permetra de simplifier grandement la ou les taches que doive effectuer les chercheurs (quelque soit leurs domaines).
 
-A l'heur actuelle, lorsque vous lancer le projet vous pouvez choisir de lancer une recherche en cliquent dans le menu edit
-sur le sous menu SerchPDF ou  le sous menu  SearchMetaData.
+Faute de temps, le projet s'est centralisé sur la realisation d'une simple recherche. En effet, l'idée initale du projet devait permetre de réaliser une aide à la revue bibliographique de facon personalisé, ou l'on pouvait s'enregistre sur le logiciel et ainsi accéder plus facilement à des revue bibliographique, celon son niveaux dans les differents domaine concerné (science, lettre, économie, droit, etc).
 
-You can use the [editor on GitHub](https://github.com/audreyroumieux/BiblioTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A l'heur actuelle, lorsque vous lancez le projet, vous pouvez choisir de lancer deux type de recherche en cliquent dans le menu edit.
+Vous pouvez soit lancer une recherche à partir d'un document pdf, en cliquent alors sur le sous menu "Search with PDF", soit lancez une recherche à partir de meta donnée via le sous menu "Search". Une meta donné corespond ici, a une information permetant d'identifier les revue a rechercher. La recherche ce lance ici, grace à un mot-clé, un titre, le nom de le ou les auteurs ou encore la date de parution. On peut également spécifier avec quel type de moteur de recherche on souhaite effectuer sa recherche, que ce soit avec IEEE, DBLP ou encore CiteSeerX.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lors qu'lon a finis de remplir le formulaire correspondant à sa recherche souhaité, il suffira simplement de cliquer sur le bouton sumbit pour lancer sont execution ou sur le bouton annuler, pour annuler l'operation.
 
-### Markdown
+Une fois la recherche lancer, l'utilisateur observera un fond gris sur lequel il poura cliquer afin de faire apparaitre le graph désirer, ainsi que sa légande associé.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/audreyroumieux/BiblioTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vous pouvez retrouvez le code source de ce projet sur [editor on GitHub](https://github.com/CeriAvignon/BiblioTool) .
