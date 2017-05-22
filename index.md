@@ -11,4 +11,4 @@ Lors qu'lon a finis de remplir le formulaire correspondant à sa recherche souha
 
 Une fois la recherche lancer, l'utilisateur observera un fond gris sur lequel il poura cliquer afin de faire apparaitre le graph désirer, ainsi que sa légande associé.
 
-Vous pouvez retrouvez le code source de ce projet sur [editor on GitHub](https://github.com/CeriAvignon/BiblioTool) .
+Vous pouvez retrouvez le code source de ce projet sur [GitHub](https://github.com/CeriAvignon/BiblioTool) .
