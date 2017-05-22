@@ -1,6 +1,6 @@
-## Bienvenu sur le projet de programation Bibliotool
+## Bienvenue sur le projet de programation Bibliotool
 
-Le projet biblioTool est un projet réaliser par les élèves en troisieme année de licence inforamtique du CERI d'avignon. Le but du projet était de réaliser un logiciel d'aide à la revue bibliographique (tache corrante en recherche). En effet, l'automatisation d'une partie du traiment à réaliser permetra de simplifier grandement la ou les taches que doive effectuer les chercheurs (quelque soit leurs domaines).
+Le projet biblioTool est un projet réalisé en Java, par les élèves en troisieme année de licence inforamtique de l'université d'Avignon. Le but du projet était de réaliser un logiciel d'aide à la revue bibliographique (tâche corrante en recherche). En effet, l'automatisation d'une partie du traiment à réaliser permetra de simplifier grandement la, ou les tâches que doive effectuer les chercheurs (quel que soit leurs domaines).
 
 Faute de temps, le projet s'est centralisé sur la realisation d'une simple recherche. En effet, l'idée initale du projet devait permetre de réaliser une aide à la revue bibliographique de facon personalisé, ou l'on pouvait s'enregistre sur le logiciel et ainsi accéder plus facilement à des revue bibliographique, celon son niveaux dans les differents domaine concerné (science, lettre, économie, droit, etc).
 
